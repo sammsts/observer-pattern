@@ -136,6 +136,9 @@ class Program
         <div className="container relative z-10 mx-auto px-6 text-center max-w-4xl">
           <h1 className="text-6xl font-bold mb-6 drop-shadow-lg">Observer Pattern</h1>
           <p className="text-xl mb-10 text-white/90 max-w-2xl mx-auto">
+            Samuel Maciel dos Santos e Laura Gabriele Teixeira
+          </p>
+          <p className="text-xl mb-10 text-white/90 max-w-2xl mx-auto">
             Design Pattern comportamental que define uma dependência um-para-muitos entre objetos
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
@@ -387,7 +390,7 @@ class Program
         <div className="container mx-auto px-6 text-center">
           <p className="text-lg font-semibold mb-2">Observer Pattern</p>
           <p className="text-white/80 text-sm">
-            Design Pattern Comportamental | Documentação Técnica | Samuel Maciel dos Santos
+            Design Pattern Comportamental | Documentação Técnica | Samuel Maciel dos Santos e Laura Gabriele Teixeira
           </p>
         </div>
       </footer>

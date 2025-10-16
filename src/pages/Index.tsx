@@ -134,6 +134,9 @@ class Program
       <header className="relative overflow-hidden bg-gradient-to-br from-primary via-primary-glow to-accent py-24 text-white">
         <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmYiIGZpbGwtb3BhY2l0eT0iMC4wNSI+PHBhdGggZD0iTTM2IDEzNGg4djNoLTh6bTAgMThoOHYzaC04ek0yMCAxMzRoOHYzaC04em0wIDE4aDh2M2gtOHoiLz48L2c+PC9nPjwvc3ZnPg==')] opacity-20"></div>
         <div className="container relative z-10 mx-auto px-6 text-center max-w-4xl">
+          <div className="inline-block px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-sm font-medium mb-6">
+            ⏱️ Tempo de leitura: ~8 minutos
+          </div>
           <h1 className="text-6xl font-bold mb-6 drop-shadow-lg">Observer Pattern</h1>
           <p className="text-xl mb-10 text-white/90 max-w-2xl mx-auto">
             Samuel Maciel dos Santos e Laura Gabriele Teixeira
@@ -147,7 +150,7 @@ class Program
               size="lg"
               className="bg-white text-primary hover:bg-white/90 shadow-lg"
             >
-              Começar <ArrowRight className="ml-2 h-5 w-5" />
+              Estudar <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
             <Button 
               onClick={() => scrollToSection("implementacao")}

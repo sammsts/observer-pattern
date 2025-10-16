@@ -387,7 +387,7 @@ class Program
         <div className="container mx-auto px-6 text-center">
           <p className="text-lg font-semibold mb-2">Observer Pattern</p>
           <p className="text-white/80 text-sm">
-            Design Pattern Comportamental | Documentação Técnica
+            Design Pattern Comportamental | Documentação Técnica | Samuel Maciel dos Santos
           </p>
         </div>
       </footer>
